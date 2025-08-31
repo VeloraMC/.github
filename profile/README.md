@@ -1,4 +1,4 @@
-# Velora Studio  
+# Lumio Studios 
 
 > *Creative Solutions for Multiplayer Gaming – Focused on Mods and Immersive Player Experiences*  
 
@@ -12,7 +12,7 @@ Als ich begann, Multiplayer-Projekte zu entwickeln, stellte ich mir eine einfach
 Ich wollte einen Weg schaffen, der Entwicklern das Leben leichter macht –  
 und Spielern Erlebnisse schenkt, die sie nie vergessen.  
 
-So entstand Velora Studio.  
+So entstand Lumio Studios.  
 Nicht aus dem Wunsch, „mehr Features“ zu liefern,  
 sondern aus dem Traum, **einfache Systeme mit großer Wirkung** zu schaffen.  
 
@@ -37,7 +37,7 @@ dann haben wir unser Ziel erreicht.
 
 ## Our Philosophy  
 
-Velora Studio steht für drei einfache Prinzipien:  
+Lumio Studios steht für drei einfache Prinzipien:  
 
 1. **Simplicity for Developers**  
    Systeme, die klar, verständlich und modular sind – damit jeder Entwickler sofort loslegen kann.  
@@ -71,3 +71,4 @@ wo Vision und Verantwortung sich begegnen.
 
 Dieses Projekt ist Open Source und unter der **MIT License** veröffentlicht.  
 Das bedeutet: frei nutzbar, veränderbar, teilbar.  
+
