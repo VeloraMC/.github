@@ -12,26 +12,20 @@ Als ich begann, Multiplayer-Projekte zu entwickeln, stellte ich mir eine einfach
 Ich wollte einen Weg schaffen, der Entwicklern das Leben leichter macht –  
 und Spielern Erlebnisse schenkt, die sie nie vergessen.  
 
-So entstand Lumio Studios.  
-Nicht aus dem Wunsch, „mehr Features“ zu liefern,  
+So entstand Lumio Studios. Nicht aus dem Wunsch, „mehr Features“ zu liefern,  
 sondern aus dem Traum, **einfache Systeme mit großer Wirkung** zu schaffen.  
 
-Wir glauben daran, dass **Technik unsichtbar sein sollte**,  
-damit das, was bleibt, die **Magie des Spiels** ist.  
+Wir glauben daran, dass **Technik unsichtbar sein sollte**, damit das, was bleibt, die **Magie des Spiels** ist.  
 
-So wie Miyamoto sagt, dass seine Ideen oft aus Kindheitserinnerungen entstehen,  
-oder Masuda erklärt, dass Pokémon immer ein Gefühl von „Zusammengehörigkeit“ sein sollte,  
-ist auch Velora Studio auf einer Erinnerung gebaut:  
+So wie Miyamoto sagt, dass seine Ideen oft aus Kindheitserinnerungen entstehen, oder Masuda erklärt, dass Pokémon immer ein Gefühl von „Zusammengehörigkeit“ sein sollte,  
+ist auch Lumio Studios auf einer Erinnerung gebaut:  
 
-Dem Gefühl, dass Multiplayer nicht nur bedeutet,  
-gemeinsam zu spielen –  
-sondern gemeinsam **Momente zu erschaffen, die bleiben**.  
+Dem Gefühl, dass Multiplayer nicht nur bedeutet, gemeinsam zu spielen – sondern gemeinsam **Momente zu erschaffen, die bleiben**.  
 
-Und wenn auch nur ein Spieler, irgendwo auf der Welt,  
-durch unsere Arbeit eine unvergessliche Erfahrung macht,  
+Und wenn auch nur ein Spieler, irgendwo auf der Welt, durch unsere Arbeit eine unvergessliche Erfahrung macht,  
 dann haben wir unser Ziel erreicht.  
 
-— Astro, Founder of Velora Studio  
+— Astro, Founder of Lumio Studios
 
 ---
 
@@ -71,4 +65,5 @@ wo Vision und Verantwortung sich begegnen.
 
 Dieses Projekt ist Open Source und unter der **MIT License** veröffentlicht.  
 Das bedeutet: frei nutzbar, veränderbar, teilbar.  
+
 
