@@ -1,2 +1,2 @@
-# We are Velora Studio!
+# We are Lumio Studios!
 You can find out more about us here!
