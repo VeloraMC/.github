@@ -6,24 +6,24 @@
 
 ## A Note from the Founder  
 
-Als ich begann, Multiplayer-Projekte zu entwickeln, stellte ich mir eine einfache Frage:  
-*Warum fühlt sich vieles im Modding und Plugin-Development mehr nach Arbeit an, als nach Spiel?*  
+When I started developing multiplayer projects, I asked myself a simple question:  
+*Why does so much of modding and plugin development feel more like work than play?*  
 
-Ich wollte einen Weg schaffen, der Entwicklern das Leben leichter macht –  
-und Spielern Erlebnisse schenkt, die sie nie vergessen.  
+I wanted to create a way to make life easier for developers—  
+and give players experiences they'll never forget.  
 
-So entstand Lumio Studios. Nicht aus dem Wunsch, „mehr Features“ zu liefern,  
-sondern aus dem Traum, **einfache Systeme mit großer Wirkung** zu schaffen.  
+That's how Lumio Studios came to be. Not out of a desire to deliver “more features,”  
+but out of a dream to create **simple systems with a big impact**.  
 
-Wir glauben daran, dass **Technik unsichtbar sein sollte**, damit das, was bleibt, die **Magie des Spiels** ist.  
+We believe that **technology should be invisible** so that what remains is the **magic of the game**.  
 
-So wie Miyamoto sagt, dass seine Ideen oft aus Kindheitserinnerungen entstehen, oder Masuda erklärt, dass Pokémon immer ein Gefühl von „Zusammengehörigkeit“ sein sollte,  
-ist auch Lumio Studios auf einer Erinnerung gebaut:  
+Just as Miyamoto says that his ideas often come from childhood memories, or Masuda explains that Pokémon should always be a feeling of “togetherness,”  
+Lumio Studios is also built on a memory:  
 
-Dem Gefühl, dass Multiplayer nicht nur bedeutet, gemeinsam zu spielen – sondern gemeinsam **Momente zu erschaffen, die bleiben**.  
+the feeling that multiplayer doesn't just mean playing together—it means **creating moments that last** together.  
 
-Und wenn auch nur ein Spieler, irgendwo auf der Welt, durch unsere Arbeit eine unvergessliche Erfahrung macht,  
-dann haben wir unser Ziel erreicht.  
+And if even one player, somewhere in the world, has an unforgettable experience because of our work,  
+then we've achieved our goal.  
 
 — Astro, Founder of Lumio Studios
 
@@ -31,39 +31,36 @@ dann haben wir unser Ziel erreicht.
 
 ## Our Philosophy  
 
-Lumio Studios steht für drei einfache Prinzipien:  
+Lumio Studios stands for three simple principles:
 
-1. **Simplicity for Developers**  
-   Systeme, die klar, verständlich und modular sind – damit jeder Entwickler sofort loslegen kann.  
+1. **Simplicity for Developers**
+Systems that are clear, understandable, and modular—so that every developer can get started right away.
 
-2. **Immersion for Players**  
-   Werkzeuge, Engines und Ideen, die Multiplayer nicht nur unterstützen, sondern lebendig machen.  
+2. **Immersion for Players**
+Tools, engines, and ideas that not only support multiplayer, but bring it to life.  
 
 3. **Longevity of Ideas**  
-   Projekte, die nicht nur funktionieren, sondern wachsen können – weil sie auf soliden Fundamenten gebaut sind.  
+   Projects that not only work, but can grow – because they are built on solid foundations.
 
 ---
 
 ## What We Build  
 
-Wir erschaffen **Engines, Systeme und kreative Lösungen** für Multiplayer Gaming.  
-Dabei geht es nicht um Quantität oder bloße Features,  
-sondern um **Qualität, Beständigkeit und Erlebnisse**, die Spieler und Entwickler gleichermaßen berühren.  
+We create **systems and creative solutions** for multiplayer gaming.  
+It's not about quantity or mere features, but about **quality, consistency, and experiences** that touch players and developers alike.
 
 ---
 
 ## Contribution  
 
-Beiträge von außen sind willkommen – aber nur bei Projekten,  
-die wir ausdrücklich für die Community freigeben.  
-Wir glauben, dass Offenheit dort am meisten wirkt,  
-wo Vision und Verantwortung sich begegnen.  
+External contributions are welcome—but only for projects that we explicitly release to the community.  
+We believe that openness is most effective where vision and responsibility meet.  
 
 ---
 
 ## License  
 
-Dieses Projekt ist Open Source und unter der **MIT License** veröffentlicht.  
-Das bedeutet: frei nutzbar, veränderbar, teilbar.  
+This project is open source and published under the **MIT License**.  
+This means it is free to use, modify, and share.  
 
 
