@@ -1,4 +1,4 @@
-# Lumio Studios 
+# We are: Lumio Studios - A small studio with big plans 
 
 > *Creative Solutions for Multiplayer Gaming – Focused on Mods and Immersive Player Experiences*  
 
@@ -62,5 +62,6 @@ We believe that openness is most effective where vision and responsibility meet.
 
 This project is open source and published under the **MIT License**.  
 This means it is free to use, modify, and share.  
+
 
 
