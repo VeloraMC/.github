@@ -47,7 +47,8 @@ than just playing together - it's a shared experience.
 
 Every Lumio Studios project is like a new journey, a universe for players to discover and co-create. 
 
-Just as Nintendo creates worlds with Zelda or Pokémon, we want to write new chapters in the "Minecraft" universe.
+Just as Nintendo creates worlds with Zelda or Pokémon, we want to write new chapters 
+in the "Minecraft" universe.
 ---
 
 ## What We Build  
