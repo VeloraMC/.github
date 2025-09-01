@@ -42,13 +42,8 @@ Tools, engines, and ideas that not only support multiplayer, but bring it to lif
 3. **Longevity of Ideas**  
    Projects that not only work, but can grow – because they are built on solid foundations.
 
-We believe that multiplayer is more 
-than just playing together - it's a shared experience. 
+We are convinced that multiplayer goes far beyond simply playing together—it stands for shared experiences and creative development. At Lumio Studios, we view each of our projects as an exciting journey, a unique universe that players not only explore but also actively shape. Just as Nintendo has created fascinating worlds with Zelda and Pokémon, we strive to write new stories and open fresh chapters in the Minecraft universe.
 
-Every Lumio Studios project is like a new journey, a universe for players to discover and co-create. 
-
-Just as Nintendo creates worlds with Zelda or Pokémon, we want to write new chapters 
-in the "Minecraft" universe.
 ---
 
 ## What We Build  
@@ -69,6 +64,7 @@ We believe that openness is most effective where vision and responsibility meet.
 
 This project is open source and published under the **MIT License**.  
 This means it is free to use, modify, and share.  
+
 
 
 
