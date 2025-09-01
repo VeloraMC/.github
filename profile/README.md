@@ -44,7 +44,9 @@ Tools, engines, and ideas that not only support multiplayer, but bring it to lif
 
 We believe that multiplayer is more 
 than just playing together - it's a shared experience. 
+
 Every Lumio Studios project is like a new journey, a universe for players to discover and co-create. 
+
 Just as Nintendo creates worlds with Zelda or Pokémon, we want to write new chapters in the "Minecraft" universe.
 ---
 
