@@ -1,7 +1,7 @@
 # Lumio Studios – Wo Ambition auf digitale Kreativität trifft
-Ein engagiertes und dynamisches Team mit großen Ambitionen, das die Indie-Szene durch kreative Spiele, raffinierte Minecraft-Plugins und einzigartige Projekte nachhaltig beeinflusst.
+Ein engagiertes und dynamisches Team mit großen Ambitionen, das die Indie-Szene durch kreative Spiele, raffinierte Minecraft-Plugins, Designs und einzigartige Projekte nachhaltig beeinflusst.
 
-> Spielerorientierte Erlebnisse, wegweisende technische Innovationen und vielseitige kreative Werkzeuge prägen eine breite Palette an Möglichkeiten – von traditionsreichen Jump’n’-Run-Spielen, die durch ihre zeitlose Mechanik begeistern, bis hin zu individuell gestalteten Plugins, die darauf abzielen, Servern mehr Funktionalität zu verleihen und Gemeinschaften auf einzigartige Weise zusammenzubringen.
+> Spielerorientierte Erlebnisse, wegweisende technische Innovationen und vielseitige kreative Werkzeuge prägen eine breite Palette an Möglichkeiten – von traditionsreichen Spielen, die durch ihre zeitlose Mechanik begeistern, bis hin zu individuell gestalteten Plugins, die darauf abzielen, Servern mehr Funktionalität zu verleihen und Gemeinschaften auf einzigartige Weise zusammenzubringen. Oder Designs
 
 ---
 
@@ -48,3 +48,4 @@ In allem, was wir erschaffen, gilt für uns ein klares Prinzip: Qualität über 
 Unsere Tür steht offen für alle, die eine Leidenschaft für Spiele, Kreativität und Entwicklung teilen. Spieler, Entwickler und kreative Köpfe aus allen Bereichen sind herzlich eingeladen, unsere Projekte nicht nur zu verfolgen, sondern aktiv mitzugestalten, ihre Perspektiven einzubringen und wertvolle Impulse für neue Ideen zu liefern. Eure Feedback ist uns enorm wichtig, denn es trägt dazu bei, unsere Arbeit weiterzuentwickeln und die Qualität unserer Werke zu steigern.  
 
 Zugleich bleibt die kreative Leitung fest in unseren Händen. Wir legen großen Wert darauf, die Kernvision und Richtung unserer Projekte zu bewahren, denn sie bilden das Fundament unseres Schaffens. Dennoch steht Offenheit für uns an oberster Stelle – insbesondere überall dort, wo sie als Katalysator für Innovationen wirken und einen echten Mehrwert schaffen kann. Wir sind überzeugt davon, dass Zusammenarbeit und die Vernetzung von Ideen der Schlüssel zum gemeinsamen Erfolg sind.
+
