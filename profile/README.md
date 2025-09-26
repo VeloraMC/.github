@@ -49,3 +49,5 @@ Unsere Tür steht offen für alle, die eine Leidenschaft für Spiele, Kreativit�
 
 Zugleich bleibt die kreative Leitung fest in unseren Händen. Wir legen großen Wert darauf, die Kernvision und Richtung unserer Projekte zu bewahren, denn sie bilden das Fundament unseres Schaffens. Dennoch steht Offenheit für uns an oberster Stelle – insbesondere überall dort, wo sie als Katalysator für Innovationen wirken und einen echten Mehrwert schaffen kann. Wir sind überzeugt davon, dass Zusammenarbeit und die Vernetzung von Ideen der Schlüssel zum gemeinsamen Erfolg sind.
 
+---
+© 2025 Lumio Studios – Alle Rechte vorbehalten
