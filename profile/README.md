@@ -33,13 +33,13 @@ Lumio Studios fußt auf drei fundamentalen Prinzipien:
 
 ## Unser Ansatz: Was wir erschaffen
 
-Unser Ansatz konzentriert sich darauf, digitale Kreativität in ihrer vielseitigsten Form zu fördern und auszubauen, wobei wir weit über die bloße Entwicklung von Spielen hinausgehen. Unser Engagement richtet sich auf unterschiedliche Bereiche, die sowohl die Spieler als auch Entwickler gleichermaßen begeistern und inspirieren können. Hierzu zählen:  
+Unser Ziel ist es, digitale Kreativität in ihrer facettenreichsten Form zu fördern und weiterzuentwickeln – und dabei weit über die bloße Entwicklung von Spielen hinauszugehen. Wir engagieren uns in verschiedenen Bereichen, die sowohl Spieler als auch Entwickler begeistern und inspirieren. Dazu gehören:  
 
-- Indie-Games, die mit packenden Geschichten faszinieren und eine Welt erschaffen, die zur Entdeckung einlädt und zum Verweilen inspiriert.  
-- Minecraft-Plugins, die den Servern völlig neue Dimensionen und spannende Gestaltungsmöglichkeiten eröffnen, um das Spielerlebnis auf ein kreatives und unvergleichbares Niveau zu heben.  
-- Tools und Ideen, die nicht nur praktische Unterstützung bieten, sondern auch Raum für Innovation schaffen und die Community bis hin zu den Entwicklern bereichern.  
+- Indie-Games mit fesselnden Geschichten, die Welten erschaffen, die zum Entdecken einladen und zum Verweilen inspirieren.  
+- Minecraft-Plugins, die Servern neue Dimensionen und innovative Gestaltungsmöglichkeiten eröffnen, um das Spielerlebnis auf ein kreativ unvergleichliches Level zu heben.  
+- Kreative Designs, ob im Minecraft-Universum oder in anderen Bereichen, die durch ihre visuelle Stärke begeistern und Nutzer in Staunen versetzen.  
 
-In allem, was wir erschaffen, gilt für uns ein klares Prinzip: Qualität über Quantität. Jede einzelne Komponente – seien es Features, Level, Mechaniken oder Befehle – wird mit größter Sorgfalt und einem Auge fürs Detail konzipiert, um ein einzigartiges und überzeugendes Gesamterlebnis zu gestalten. Damit möchten wir nicht nur unterhalten, sondern auch einen kreativen Mehrwert schaffen, der nachhaltig begeistert.  
+Unser klarer Leitsatz bei allem, was wir erschaffen, lautet: Qualität über Quantität. Jede einzelne Komponente – seien es Features, Level, Mechaniken oder Befehle – wird mit größter Sorgfalt und einem Auge fürs Detail entwickelt, um ein einzigartiges und überzeugendes Gesamterlebnis zu schaffen. Unser Ziel ist es, nicht nur zu unterhalten, sondern auch einen nachhaltigen kreativen Mehrwert zu bieten, der langfristig begeistert.   
 
 ---
 
@@ -51,3 +51,4 @@ Zugleich bleibt die kreative Leitung fest in unseren Händen. Wir legen großen 
 
 ---
 © 2025 Lumio Studios – Alle Rechte vorbehalten
+
