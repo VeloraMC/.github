@@ -31,27 +31,6 @@ The ethos of Lumio Studios is grounded in three pillars that guide every decisio
 
 ---
 
-## Our Teams
-
-Lumio Studios thrives on the passion and expertise of three distinct yet highly collaborative teams. Together, they form the backbone of our studio's success:
-
-### **Team A – Indie Games**
-- **Primary Focus:** Developing imaginative and engaging indie games designed to immerse players in fully realized worlds.  
-- **Mission:** Transform concepts into experiential narratives where gameplay mechanics harmoniously intertwine with storytelling and visual design.  
-- **Approach:** Guided by creativity and curiosity at every stage—from brainstorming ideas to prototyping and final implementation—this team puts players at the epicenter of their work.
-
-### **Team B – Minecraft Plugins**
-- **Primary Focus:** Innovating through highly technical and creative plugins that expand Minecraft's potential.  
-- **Mission:** Design plugins that empower community servers by enhancing gameplay mechanics while fostering interaction and collaboration.  
-- **Approach:** Robust coding practices combined with thorough testing ensure seamless functionality. The team's commitment to continuous updates ensures sustained reliability and engagement for all users.
-
-### **Team C – Design**
-- **Primary Focus:** Defining the visual identity that connects Lumio Studios’ work across multiple domains.  
-- **Mission:** Deliver polished, cohesive designs that elevate games, plugins, campaigns, and promotional content with artistry and purpose.  
-- **Approach:** Visual creativity aligns seamlessly with branding while innovating across different formats to fuel impactful and meaningful aesthetic experiences.
-
----
-
 ## Collaboration & Creative Synergy
 
 Collaboration at Lumio Studios is far more than a standard workflow—it is an essential element that breathes life into each project. Our teams work together in dynamic harmony, sharing concepts, providing constructive feedback, and pooling resources to ensure every creation benefits from the full spectrum of expertise available.
@@ -91,3 +70,4 @@ Creativity is our responsibility. Curiosity leads us forward. Joy defines our su
 ---
 
 © 2025 Lumio Studios — All rights reserved
+
